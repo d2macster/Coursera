@@ -6,11 +6,11 @@ package com.gmail.theandriicherniak.algorithms1;
 import java.io.*;
 public class Main {
     public static void main(String [] args){
-        String dataFile = "/Users/andriicherniak/Desktop/IntegerArray.txt";
+        String dataFile = "/Users/andriicherniak/Desktop/QuickSort.txt";
         File file = new File(dataFile);
         BufferedReader reader = null;
 
-        int [] data = new int[100000];
+        int [] data = new int[10000];
 
         try {
             reader = new BufferedReader(new FileReader(file));
@@ -27,10 +27,9 @@ public class Main {
             System.out.println(e.getLocalizedMessage());
         }
 
-//        int [] data = new int[]{1,2,3,5,4,6,7,8,11,9,10};
+//        int [] data = new int[]{8, 2, 4, 5, 7, 1};
 
-        HW1_CountInversions.countInversions(data);
-
+        HW2_QuickSort.quickSort(data);
 
 
     }
