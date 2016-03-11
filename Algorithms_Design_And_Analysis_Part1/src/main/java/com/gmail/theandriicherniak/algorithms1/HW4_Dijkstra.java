@@ -32,7 +32,7 @@ public class HW4_Dijkstra {
     }
 
     public void run(){
-        PriorityQueue<BoundaryEdge> q = new PriorityQueue<BoundaryEdge>(200, new BoundaryEdgeComparator());
+        MinPriorityQueue<BoundaryEdge> q = new MinPriorityQueue<BoundaryEdge>(200, new BoundaryEdgeComparator());
 
         HashMap<Integer, Integer> nodeDistance = new HashMap<Integer, Integer>();
         nodeDistance.put(1, 0);

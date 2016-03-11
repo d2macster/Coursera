@@ -44,5 +44,26 @@ public class Main {
         HW4_Dijkstra d = new HW4_Dijkstra(graph_weights);
         d.run();
 
+//        class IntComparator implements Comparator<Integer>{
+//            public int compare(Integer v1, Integer v2){
+//                if (v1 > v2) return 1;
+//                if (v1 < v2) return -1;
+//                return 0;
+//            }
+//        }
+//
+//        MinPriorityQueue q = new MinPriorityQueue(100, new IntComparator());
+//        for (int i = 1; i <= 150; i++) {
+//            q.add(3 * i % 10);
+////            q.show();
+//        }
+//
+//
+//        while (!q.isEmpty()){
+//            System.out.println(q.remove());
+////            q.show();
+//        }
+
+
     }
 }
