@@ -9,14 +9,11 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        String dataFile = "/Users/andriicherniak/Desktop/SCC.txt";
+        String dataFile = "/Users/andriicherniak/Desktop/dijkstraData.txt";
         File file = new File(dataFile);
         BufferedReader reader;
 
-        HashMap<Integer, ArrayList<Integer>> graph_original = new HashMap<Integer, ArrayList<Integer>>();
-        HashMap<Integer, ArrayList<Integer>> graph_rev = new HashMap<Integer, ArrayList<Integer>>();
-
-        int from, to;
+        HashMap<Integer, HashMap<Integer, Integer>> graph_weights = new HashMap<Integer, HashMap<Integer, Integer>>();
 
         try {
             reader = new BufferedReader(new FileReader(file));
@@ -24,15 +21,18 @@ public class Main {
 
             while ((line = reader.readLine()) != null) {
                 String [] v_ar = line.split("\\s+");
+                int from = Integer.parseInt(v_ar[0]);
 
-                from = Integer.parseInt(v_ar[0]);
-                to = Integer.parseInt(v_ar[1]);
+                graph_weights.put(from, new HashMap<Integer, Integer>());
 
-                if (!graph_original.containsKey(from)) graph_original.put(from, new ArrayList<Integer>());
-                graph_original.get(from).add(to);
+                for (int i = 1; i < v_ar.length; i++){
+                    String [] link_data = v_ar[i].split(",");
+                    int to = Integer.parseInt(link_data[0]);
+                    int weight = Integer.parseInt(link_data[1]);
 
-                if (!graph_rev.containsKey(to)) graph_rev.put(to, new ArrayList<Integer>());
-                graph_rev.get(to).add(from);
+                    graph_weights.get(from).put(to, weight);
+                }
+
             }
 
         } catch (Exception e) {
@@ -41,8 +41,8 @@ public class Main {
 
         System.out.println("extracted data");
 
+        HW4_Dijkstra d = new HW4_Dijkstra(graph_weights);
+        d.run();
 
-        HW3_SCC scc = new HW3_SCC(graph_original, graph_rev);
-        scc.computeSCC();
     }
 }
