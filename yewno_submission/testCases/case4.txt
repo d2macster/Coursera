@@ -1,0 +1,16 @@
+There was a long pause of silence between us, and I felt very strangely.
+The sea before me took odd, indefinite shape. It seemed as though it was
+of crystal clearness, and that from where I gazed I could see all its
+mysteries. That is, I could see so as to know there were mysteries,
+though what they were individually I could not even dream. The past and
+the present and the future seemed to be mingled in one wild, chaotic,
+whirling dream, from the mass of which thoughts and ideas seemed now and
+again to fly out unexpectedly on all sides as do sparks from hot iron
+under the hammer. Within my heart grew vague indefinite yearnings,
+aspirations, possibilities. There came a sense of power so paramount
+that instinctively I drew myself up to my full height and became
+conscious of the physical vigour within me. As I did so I looked around
+and seemed to wake from a dream.
+
+Expected answer : Bram_Stocker : The_Mystery_of_the_Sea.txt
+Obtained answer : Bram_Stocker : The_Mystery_of_the_Sea.txt

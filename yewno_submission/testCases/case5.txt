@@ -1,0 +1,34 @@
+ORIGINAL TEXT:
+
+"Now, you will observe that he could not have been on the staff
+of the hospital, since only a man well-established in a London
+practice could hold such a position, and such a one would not
+drift into the country. What was he, then? If he was in the
+hospital and yet not on the staff he could only have been a
+house-surgeon or a house-physician--little more than a senior
+student. And he left five years ago--the date is on the stick. So
+your grave, middle-aged family practitioner vanishes into thin
+air, my dear Watson, and there emerges a young fellow under
+thirty, amiable, unambitious, absent-minded, and the possessor of
+a favourite dog, which I should describe roughly as being larger
+than a terrier and smaller than a mastiff."
+
+MODIFIED TEXT
+
+"\"Now, you will observe that he cant\n" +
+                "of the hospital, since only a man well-established in a London\n" +
+                "practice could hold such a position, hjdgfhj jkanbsd  hn s\n" +
+                "drift into the country. What was he, then? If he was in the\n" +
+                "xx g  hz  lik s66n s; gg,n " +
+                "hospital and yet not on the staff he could only have been a\n" +
+                "house-surgeon or a house-physician--little more than a senior\n" +
+                "student. And he left five years ago--the date is on the stick. So\n" +
+                "your grave, middle-aged family \n" +
+                "yea yea, blah blah, nea now clue xxx uuu " +
+                "air, my dear Watson, and there emerges a young fellow under\n" +
+                "thirty, amiable, unambitious, absent-minded, and the possessor of\n" +
+                "a favourite dog, which I should describe roughly as being larger\n" +
+                "than a terrier and smaller than a mastiff.\"";
+
+Expected answer : Arthur_Conan_Doyle : The_Hound_of_the_Baskervilles.txt
+Obtained answer : Arthur_Conan_Doyle : The_Hound_of_the_Baskervilles.txt

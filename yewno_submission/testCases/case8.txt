@@ -1,0 +1,39 @@
+ORIGINAL TEXT
+
+The witnesses of the crime are of all nations, and there is no possibility
+of error concerning facts. There are British consuls like Casement,
+Thesiger, Mitchell and Armstrong, all writing in their official capacity
+with every detail of fact and date. There are Frenchmen like Pierre Mille
+and Félicien Challaye, both of whom have written books upon the subject.
+There are missionaries of many races--Harris, Weeks and Stannard
+(British); Morrison, Clarke and Shepherd (American); Sjoblom (Swedish) and
+Father Vermeersch, the Jesuit. There is the eloquent action of the Italian
+Government, who refused to allow Italian officers to be employed any
+longer in such hangman's work, and there is the report of the Belgian
+commission, the evidence before which was suppressed because it was too
+dreadful for publication; finally, there is the incorruptible evidence of
+the kodak. Any American citizen who will glance at Mark Twain's "King
+Leopold's Soliloquy" will see some samples of that. A perusal of all of
+these sources of information will show that there is not a grotesque,
+obscene or ferocious torture which human ingenuity could invent which has
+not been used against these harmless and helpless people.
+
+This would, to my mind, warrant our intervention in any case. Turkey has
+several times been interfered with simply on the general ground of
+humanity. There is in this instance a very special reason why America and
+England should not stand by and see these people done to death. They are,
+in a sense, their wards. America was the first to give official
+recognition to King Leopold's enterprise in 1884, and so has the
+responsibility of having actually put him into that position which he has
+so dreadfully abused. She has been the indirect and innocent cause of the
+whole tragedy. Surely some reparation is due. On the other hand England
+has, with the other European Powers, signed the treaty of 1885, by which
+each and all of them make it responsible for the condition of the native
+races. The other Powers have so far shown no desire to live up to this
+pledge. But the conscience of England is uneasy and she is slowly rousing
+herself to act. Will America be behind?
+
+Original novel: The Crime of the Congo by Arthur Conan Doyle
+Not in training data set
+Best novel match : Arthur_Conan_Doyle : The_Adventure_of_the_Dying_Detective.txt
+Best author match : Isaac_Asimov

@@ -1,0 +1,9 @@
+--Cracked lookingglass of a servant! Tell that to the oxy chap
+downstairs and touch him for a guinea. He's stinking with money and
+thinks you're not a gentleman. His old fellow made his tin by selling
+jalap to Zulus or some bloody swindle or other. God, Kinch, if you and I
+could only work together we might do something for the island. Hellenise
+it.
+
+Expected answer : James_Joyce : Ulysses.txt
+Obtained answer : James_Joyce : Ulysses.txt
