@@ -1,4 +1,4 @@
-package com.gmail.theandriicherniak.algorithms1;
+package com.gmail.theandriicherniak.algorithms2;
 
 import java.io.*;
 import java.util.*;
@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * Created by andriicherniak on 6/19/16.
  */
-public class Part2HW1_Jobs {
+public class HW1_Jobs {
     public static void main(String [] args){
         String data = "/Users/andriicherniak/Desktop/data/jobs.txt";
         File f = new File(data);

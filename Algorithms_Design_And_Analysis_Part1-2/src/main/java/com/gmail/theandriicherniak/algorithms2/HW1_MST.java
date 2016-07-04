@@ -1,4 +1,4 @@
-package com.gmail.theandriicherniak.algorithms1;
+package com.gmail.theandriicherniak.algorithms2;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -9,7 +9,7 @@ import java.util.*;
 /**
  * Created by andriicherniak on 6/19/16.
  */
-public class Part2HW1_MST {
+public class HW1_MST {
 
     public static class Edge{
         int from;
