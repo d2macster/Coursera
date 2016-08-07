@@ -21,7 +21,6 @@ public class HW4_SCC {
             }
             order.push(curV);
         }
-
     }
 
     public HW4_SCC(HashMap<Integer, ArrayList<Integer>> g1, HashMap<Integer, ArrayList<Integer>> g2){
